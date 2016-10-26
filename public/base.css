@@ -1,0 +1,48 @@
+.header-container {
+  padding-top: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.form-input {
+  padding-top: 20px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 1020px) {
+  .text-input {
+    width: 700px;
+    height: 70px;
+    font-size: 35px;
+  }
+
+  .button-input {
+    width: 120px;
+    height: 70px;
+  }
+}
+
+.text-input {
+  border: solid 1px #CCC;
+  padding-left: 5px;
+  vertical-align: bottom;
+}
+
+.button-input {
+  border: solid 1px #CCC;
+}
+
+.question-wrapper {
+  background-color: #F0F8FF;
+}
+
+.question-content {
+  padding: 10px;
+}
+
+.question-submitter {
+  text-align: right;
+  padding: 5px;
+}

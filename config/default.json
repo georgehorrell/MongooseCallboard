@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/qanda",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "8/bOuR6MwAC/Xhe8Jjurvdg8eMf9jSgl+UzvvQuOn8tHaZNv8up9dKL5gw/kD4+pUB5Lc7ADvt67PFqwGcbpuw=="
+    },
+    "local": {},
+    "successRedirect": "/forum.html"
+  }
+}
